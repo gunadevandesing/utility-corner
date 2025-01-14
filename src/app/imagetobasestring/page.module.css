@@ -1,0 +1,13 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+.baseString {
+  max-width: 100%;
+  min-height: 250px;
+  max-height: 300px;
+  padding: 0.5rem;
+  overflow-y: auto;
+  white-space: normal;
+  word-wrap: break-word;
+
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+}
