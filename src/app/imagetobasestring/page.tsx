@@ -2,6 +2,7 @@
 import { useRef, useState } from "react";
 import { Button, Stack } from "react-bootstrap";
 import styles from "./page.module.css";
+import "./page.css";
 
 const ImageToBaseStringConvertor = () => {
   const fileRef = useRef<HTMLInputElement>(null);
